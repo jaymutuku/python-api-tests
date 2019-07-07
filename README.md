@@ -27,7 +27,7 @@ command 'virtualenv' not found ...
 Then
 ```bash
 $ sudo apt install virtualenv
-``
+```
 #### Install the required packages
 ```bash
 $ pip install requests ijson
