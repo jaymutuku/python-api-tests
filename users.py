@@ -1,6 +1,5 @@
 """
 __author_ = "Josphat Mutuku"
-__email__ = "mutuku.josphat@gmail.com"
 __date__ ="2019-07-03"
 
 """
